@@ -1,0 +1,17 @@
+D:\Program\SMS\SMS\bin\Debug\RS232.dll
+D:\Program\SMS\SMS\bin\Debug\GSMCommShared.dll
+D:\Program\SMS\SMS\obj\Debug\SMS.csprojResolveAssemblyReference.cache
+D:\Program\SMS\SMS\obj\Debug\SMS.Delete.resources
+D:\Program\SMS\SMS\obj\Debug\SMS.frmConnection.resources
+D:\Program\SMS\SMS\obj\Debug\SMS.Receive.resources
+D:\Program\SMS\SMS\obj\Debug\SMS.Send.resources
+D:\Program\SMS\SMS\obj\Debug\SMS.Form1.resources
+D:\Program\SMS\SMS\obj\Debug\SMS.csproj.GenerateResource.Cache
+D:\Program\SMS\SMS\bin\Debug\IPIC.exe
+D:\Program\SMS\SMS\bin\Debug\IPIC.pdb
+D:\Program\SMS\SMS\obj\Debug\IPIC.exe
+D:\Program\SMS\SMS\obj\Debug\IPIC.pdb
+D:\Program\SMS\SMS\bin\Debug\IPIC.exe.config
+D:\Program\SMS\SMS\obj\Debug\SMS.AutoReply.resources
+D:\Program\SMS\SMS\obj\Debug\SMS.Email.resources
+D:\Program\SMS\SMS\obj\Debug\SMS.Properties.Resources.resources
